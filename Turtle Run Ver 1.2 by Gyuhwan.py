@@ -121,7 +121,7 @@ def message(m1, m2):
     t.write(m2, False, "center", ("", 20))
     t.home()
 
-t.title("터틀런")     
+t.title("Turtle Run Ver 1.2")     
     
 te = t.Turtle()
 te.shape("turtle")
